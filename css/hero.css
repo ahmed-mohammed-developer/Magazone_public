@@ -1,0 +1,26 @@
+.card-frist-hero {
+     position: relative;
+}
+.card-frist-hero .card-hero {
+     position: absolute;
+     bottom: 0;
+     right: 0;
+     left: 0;
+}
+.card-hero h3 {
+     font-size: 24px;
+     line-height: 32px;
+     color: #fff;
+}
+.card-hero p {
+     font-size: 15px;
+     color: #fff;
+     line-height: 20px;
+     margin-bottom: 0 !important;
+     text-transform: lowercase;
+}
+.second-hero h1 {
+     font-size: #052249;
+     font-weight: bold;
+     font-size: 48px;
+}
