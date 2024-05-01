@@ -60,6 +60,9 @@
      font-size: 20px;
      color: #fd5672;
  }
+ .second-responsive {
+     margin-top: -5px;
+}
  .second-responsive .logo-responsive {
      font-size: 20px;
      font-weight: 900;
